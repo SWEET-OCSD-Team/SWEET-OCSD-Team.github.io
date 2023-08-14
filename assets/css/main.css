@@ -2211,7 +2211,7 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #FF3A3A;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
@@ -2360,6 +2360,10 @@ input, select, textarea {
 			border-radius: 5px;
 			margin: 0;
 			padding: 0.85em 2.25em 0.85em 2.25em;
+		}
+		
+		#copyright ul.links li {
+				color: #FFF;
 		}
 
 /* XLarge */
