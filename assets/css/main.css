@@ -175,7 +175,7 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 	
-	p {
+	p, ul, ol {
 		color: #151112;
 		font-weight: 500;
 	}
